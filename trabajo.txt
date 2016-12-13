@@ -2,6 +2,6 @@ trabajos
  hechos a mano
 
 Ahí está el cambio, hay algo y es que los datos demoran un poco en procesarse
-por eso puede que se presenten un par de errores 
+por eso puede que se presenten un par de error 
 
-asdsds
+cuarto intento para ver los cambios
