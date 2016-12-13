@@ -1,2 +1,7 @@
 trabajos
-dato
+ hechos a mano
+
+Ahí está el cambio, hay algo y es que los datos demoran un poco en procesarse
+por eso puede que se presenten un par de errores 
+
+asdsds
